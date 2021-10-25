@@ -1,6 +1,6 @@
 """
 机器人学规划仿真作业
-Author：陆冬澄、方莹
+
 
 
 ps:expandDis和math.sqrt((math.log(nnode) / nnode))前的数可调

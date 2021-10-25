@@ -1,5 +1,5 @@
 % Robotics £ºhomework about icp
-% Author£º Lu Dongcheng
+
 
 
 
